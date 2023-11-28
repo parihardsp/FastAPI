@@ -1,0 +1,7 @@
+NOTES:
+
+FASTAPI PROJECT:
+In ROUTING Unable to delete
+
+In Alembic/ Unable to delete address from sql workbench(foreign key constraint)
+	    Make a new create (POST) api which will only take address once.
